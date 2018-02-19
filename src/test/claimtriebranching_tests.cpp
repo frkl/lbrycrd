@@ -732,6 +732,4 @@ BOOST_AUTO_TEST_CASE(claimtriebranching_expire)
 
 }
 
-
-
 BOOST_AUTO_TEST_SUITE_END()
